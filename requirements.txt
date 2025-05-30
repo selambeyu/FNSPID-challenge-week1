@@ -3,5 +3,5 @@ matplotlib
 seaborn
 scikit-learn
 nltk
-spacy
-gensim
+matplotlib
+TA-Lib
